@@ -100,4 +100,4 @@ In this project there are some major and minor modules:
 ## Authors
 
 - [Andrew Jackson](https://github.com/andrew-jackson231)
-[![linkedin](https://www.linkedin.com/in/andrew-jackson-b96729174/)]
+- [linkedin](https://www.linkedin.com/in/andrew-jackson-b96729174/)
